@@ -1,6 +1,6 @@
 .footer {
   background: #111; /* Dark background */
-  color: #facc15; /* Yellow text */
+  color: #656565; /* Yellow text */
   padding: 50px 20px 20px;
   margin-top: 60px;
 }
@@ -19,7 +19,7 @@
 }
 
 .footer-brand span {
-  color: #facc15; /* yellow brand highlight */
+  color: #656565; /* yellow brand highlight */
 }
 
 .footer-brand p {
@@ -46,7 +46,7 @@
 }
 
 .footer-links a {
-  color: #facc15;
+  color: #656565;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -65,7 +65,7 @@
   display: inline-block;
   margin-right: 12px;
   font-size: 18px;
-  color: #facc15;
+  color: #656565;
   transition: 0.3s;
 }
 

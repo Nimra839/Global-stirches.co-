@@ -6,7 +6,7 @@ const ClothingLogos = () => {
     <section className="clothing-page">
       {/* Hero Section */}
       <div className="clothing-hero">
-        <h1>👕 Custom Clothing Logos</h1>
+        <h1> Custom Clothing Logos</h1>
         <p>
           At <span>Global Stitches.co</span>, we transform your brand identity
           into <strong>professional embroidered clothing logos</strong>.  
@@ -17,7 +17,7 @@ const ClothingLogos = () => {
       {/* Why Clothing Logos Section */}
       <div className="clothing-section">
         <div className="clothing-text">
-          <h2>🎨 Why Clothing Logos Matter?</h2>
+          <h2> Why Clothing Logos Matter?</h2>
           <p>
             Clothing logos aren’t just decoration — they’re your{" "}
             <strong>brand signature</strong>.  
@@ -41,14 +41,14 @@ const ClothingLogos = () => {
           <img src="/gallery/clothing-machine.jpg" alt="Embroidery Machine Process" />
         </div>
         <div className="clothing-text">
-          <h2>⚙️ From Digital Design to Fabric</h2>
+          <h2> From Digital Design to Fabric</h2>
           <p>
             Our process starts with <strong>professional logo digitization</strong> —  
             ensuring your design is converted into precise embroidery stitches.  
             Then, our <strong>high-speed industrial machines</strong> bring your logo to life.
           </p>
           <p className="highlight">
-            ✨ The result? Long-lasting, stylish logos that withstand
+             The result? Long-lasting, stylish logos that withstand
             everyday wear and washing.
           </p>
         </div>
@@ -57,7 +57,7 @@ const ClothingLogos = () => {
       {/* Quality Assurance Section */}
       <div className="clothing-section">
         <div className="clothing-text">
-          <h2>🏆 Our Quality Standards</h2>
+          <h2> Our Quality Standards</h2>
           <p>
             Every clothing logo we create goes through strict quality checks:
           </p>
@@ -85,7 +85,7 @@ const ClothingLogos = () => {
           className="explore-btn"
           onClick={() => (window.location.href = "#order-form")}
         >
-          📝 Order Your Clothing Logos
+           Order Your Clothing Logos
         </button>
       </div>
     </section>

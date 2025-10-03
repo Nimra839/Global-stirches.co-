@@ -28,9 +28,9 @@ const Footer = () => {
         {/* Contact */}
         <div className="footer-contact">
           <h3>Contact Us</h3>
-          <p>📍 Karachi, Pakistan</p>
-          <p>📧 support@globalstitches.co</p>
-          <p>📞 +92 300 1234567</p>
+          <p>Location USA, Los Angeles</p>
+          <p>support@globalstitches.co</p>
+          <p>call +92 3132484685</p>
         </div>
 
         {/* Socials */}

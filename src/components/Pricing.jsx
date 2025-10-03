@@ -4,12 +4,12 @@ import "./Pricing.css";
 const Pricing = () => {
   return (
     <section id="pricing" className="pricing-section">
-      <h2 className="pricing-title">💼 Recommended Pricing for a New Startup</h2>
+      <h2 className="pricing-title"> Recommended Pricing for a New Startup</h2>
 
       {/* Flat Rate */}
       <div className="pricing-cards">
         <div className="card simple">
-          <h3>Simple <span>$10–$12</span></h3>
+          <h3>Simple <span>$5–$12</span></h3>
           <ul>
             <li>Basic designs</li>
             <li>Single color</li>

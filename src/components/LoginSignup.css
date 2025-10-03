@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(270deg, #facc15, #fbbf24, #f59e0b);
+  background: linear-gradient(270deg, #656565, #656565, #656565);
   background-size: 600% 600%;
   animation: gradientMove 12s ease infinite;
   background-attachment: fixed; /* ✅ scroll karne pe background fixed rahega */
@@ -84,7 +84,7 @@ body {
 
 /* ===== Buttons ===== */
 .auth-btn {
-  background: linear-gradient(90deg, #fbbf24, #f59e0b);
+  background: linear-gradient(90deg, #656565, #656565);
   color: #fff;
   border: none;
   padding: 12px;
@@ -96,7 +96,7 @@ body {
 }
 
 .auth-btn:hover {
-  background: linear-gradient(90deg, #f59e0b, #d97706);
+  background: linear-gradient(90deg, #656565, #656565);
   transform: translateY(-2px);
 }
 
@@ -104,14 +104,14 @@ body {
 .switch-btn {
   background: none;
   border: none;
-  color: #d97706;
+  color: #656565;
   font-weight: bold;
   cursor: pointer;
   transition: color 0.3s ease;
 }
 
 .switch-btn:hover {
-  color: #b45309;
+  color: #656565;
   text-decoration: underline;
 }
 

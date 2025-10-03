@@ -10,7 +10,7 @@
 }
 .clothing-hero h1 {
   font-size: 2.5rem;
-  color: #f8b400;
+  color: #656565;
 }
 .clothing-hero p {
   font-size: 1.1rem;
@@ -65,14 +65,14 @@
 }
 .clothing-closing h2 {
   font-size: 2rem;
-  color: #f8b400;
+  color: #656565;
 }
 .clothing-closing p {
   color: #555;
   margin: 1rem 0 2rem;
 }
 .explore-btn {
-  background: linear-gradient(90deg, #ffc107, #ff9800);
+  background: linear-gradient(90deg, #656565, #656565);
   border: none;
   padding: 0.8rem 2rem;
   border-radius: 30px;

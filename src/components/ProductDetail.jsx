@@ -60,7 +60,7 @@ const ProductDetail = () => {
           </button>
           {submitted && (
             <p style={{ color: "green" }}>
-              ✅ Thank you — your review is saved (demo).
+               Thank you — your review is saved (demo).
             </p>
           )}
         </form>

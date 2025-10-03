@@ -11,7 +11,7 @@
   font-size: 2rem;
   font-weight: bold;
   margin-bottom: 1rem;
-  color: #f8b400;
+  color: #656565;
 }
 
 .products-subtext {
@@ -23,7 +23,7 @@
 
 .products-subtext span {
   font-weight: bold;
-  color: #ff9800;
+  color: #656565;
 }
 
 /* Responsive */
